@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS Transaction_products;
+DROP TABLE IF EXISTS Transactions;
+DROP TABLE IF EXISTS Clients;
+DROP TABLE IF EXISTS Working_hours;
+DROP TABLE IF EXISTS Employees;
+DROP TABLE IF EXISTS Delivery_products;
+DROP TABLE IF EXISTS Products;
+DROP TABLE IF EXISTS Deliveries;
+DROP TABLE IF EXISTS Suppliers;
+DROP TABLE IF EXISTS Companies;
